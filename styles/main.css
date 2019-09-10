@@ -1515,7 +1515,7 @@ fieldset[disabled]
 }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #123;
   color: #FFFFFF;
 }
 
@@ -3410,7 +3410,7 @@ body {
 }
 
 .bg-success {
-  background-color: #18ce0f !important;
+  background-color: #2CA8FF !important;
 }
 
 .bg-danger {
@@ -3480,11 +3480,11 @@ body {
 }
 
 .dropdown-menu.dropdown-primary {
-  background-color: #33813a;
+  background-color: #123;
 }
 
 .dropdown-menu.dropdown-primary:before {
-  color: #33813a;
+  color: #123;
 }
 
 .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
@@ -3552,11 +3552,11 @@ body {
 }
 
 .dropdown-menu.dropdown-success {
-  background-color: #16c00e;
+  background-color: #123;
 }
 
 .dropdown-menu.dropdown-success:before {
-  color: #16c00e;
+  color: #123;
 }
 
 .dropdown-menu.dropdown-success .dropdown-header:not([href]):not([tabindex]) {
@@ -4786,7 +4786,7 @@ Created using IcoMoon - icomoon.io
   margin-top: -60px;
   padding: 0 15px;
   width: 100%;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(246, 46, 46, 0.5);
 }
 
 .landing-page .header {
@@ -4932,7 +4932,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(227, 227, 227, 0.26)), to(rgba(55, 140, 63, 0.95)));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(227, 227, 227, 0.26)), to(rgba(22, 159, 200, 0.95)));
   background: linear-gradient(0deg, rgba(227, 227, 227, 0.26), rgba(55, 140, 63, 0.95));
   /* Standard syntax */
 }
@@ -5176,7 +5176,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header .category,
 .page-header .description {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(12, 12, 12, 0.5);
 }
 
 .page-header.page-header-small {
@@ -5196,11 +5196,11 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header:before {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5)
 }
 
 .page-header[filter-color="orange"] {
-  background: rgba(44, 44, 44, 0.2);
+  background: rgba(255, 255, 255, 0.2);
   /* For browsers that do not support gradients */
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
@@ -5617,8 +5617,8 @@ Created using IcoMoon - icomoon.io
     /* For Safari 5.1 to 6.0 */
     /* For Opera 11.1 to 12.0 */
     /* For Firefox 3.6 to 15 */
-    background: -webkit-gradient(linear, left top, left bottom, from(#378C3F), color-stop(80%, #000));
-    background: linear-gradient(#378C3F 0%, #000 80%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#123), color-stop(80%, #000));
+    background: linear-gradient(rgb(40, 138, 236) 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
